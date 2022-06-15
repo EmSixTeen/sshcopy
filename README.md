@@ -33,7 +33,7 @@ If the config file doesn't exist, there's a text reminder you can set one up:
 Will show output the clipboard's contents to terminal if you pass any of the following flags:
 
 - `-s` or `--show`
-- `-e`or `--echo`
+- `-e` or `--echo`
 
 Output should look like the following: 
 

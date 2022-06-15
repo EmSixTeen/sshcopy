@@ -20,7 +20,7 @@ $ sshcopy
 ```
 
 ### Config file
-The script also checks to see if you have an SSH config file at ~/.ssh/config`.
+The script also checks to see if you have an SSH config file at `~/.ssh/config`.
 
 If the config file doesn't exist, there's a text reminder you can set one up:
 
@@ -38,7 +38,7 @@ Will show output the clipboard's contents to terminal if you pass any of the fol
 Output should look like the following: 
 
 ```zsh
-sshcopy -s 
+$ sshcopy -s 
 
 -> File exists, copying it to clipboard
 -> Parameter passed to show clipboard contents:
